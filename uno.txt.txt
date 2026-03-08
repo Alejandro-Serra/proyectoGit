@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 Primera línea
 Segunda línea
-
-
-=======
-Segunda línea
 Tercera línea
->>>>>>> RamaDos
 uno
 uno1
+dos
+
